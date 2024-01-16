@@ -1,0 +1,13 @@
+D:\back\MVC\Route\Company.PL\Company.DAL\bin\Debug\net6.0\Company.DAL.deps.json
+D:\back\MVC\Route\Company.PL\Company.DAL\bin\Debug\net6.0\Company.DAL.dll
+D:\back\MVC\Route\Company.PL\Company.DAL\bin\Debug\net6.0\Company.DAL.pdb
+D:\back\MVC\Route\Company.PL\Company.DAL\obj\Debug\net6.0\Company.DAL.csproj.AssemblyReference.cache
+D:\back\MVC\Route\Company.PL\Company.DAL\obj\Debug\net6.0\Company.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\back\MVC\Route\Company.PL\Company.DAL\obj\Debug\net6.0\Company.DAL.AssemblyInfoInputs.cache
+D:\back\MVC\Route\Company.PL\Company.DAL\obj\Debug\net6.0\Company.DAL.AssemblyInfo.cs
+D:\back\MVC\Route\Company.PL\Company.DAL\obj\Debug\net6.0\Company.DAL.csproj.CoreCompileInputs.cache
+D:\back\MVC\Route\Company.PL\Company.DAL\obj\Debug\net6.0\Company.DAL.sourcelink.json
+D:\back\MVC\Route\Company.PL\Company.DAL\obj\Debug\net6.0\Company.DAL.dll
+D:\back\MVC\Route\Company.PL\Company.DAL\obj\Debug\net6.0\refint\Company.DAL.dll
+D:\back\MVC\Route\Company.PL\Company.DAL\obj\Debug\net6.0\Company.DAL.pdb
+D:\back\MVC\Route\Company.PL\Company.DAL\obj\Debug\net6.0\ref\Company.DAL.dll

@@ -1,0 +1,16 @@
+D:\back\MVC\Route\Company.PL\Company.BLL\bin\Debug\net6.0\Company.BLL.deps.json
+D:\back\MVC\Route\Company.PL\Company.BLL\bin\Debug\net6.0\Company.BLL.dll
+D:\back\MVC\Route\Company.PL\Company.BLL\bin\Debug\net6.0\Company.BLL.pdb
+D:\back\MVC\Route\Company.PL\Company.BLL\bin\Debug\net6.0\Company.DAL.dll
+D:\back\MVC\Route\Company.PL\Company.BLL\bin\Debug\net6.0\Company.DAL.pdb
+D:\back\MVC\Route\Company.PL\Company.BLL\obj\Debug\net6.0\Company.BLL.csproj.AssemblyReference.cache
+D:\back\MVC\Route\Company.PL\Company.BLL\obj\Debug\net6.0\Company.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\back\MVC\Route\Company.PL\Company.BLL\obj\Debug\net6.0\Company.BLL.AssemblyInfoInputs.cache
+D:\back\MVC\Route\Company.PL\Company.BLL\obj\Debug\net6.0\Company.BLL.AssemblyInfo.cs
+D:\back\MVC\Route\Company.PL\Company.BLL\obj\Debug\net6.0\Company.BLL.csproj.CoreCompileInputs.cache
+D:\back\MVC\Route\Company.PL\Company.BLL\obj\Debug\net6.0\Company.BLL.sourcelink.json
+D:\back\MVC\Route\Company.PL\Company.BLL\obj\Debug\net6.0\Company.BLL.csproj.CopyComplete
+D:\back\MVC\Route\Company.PL\Company.BLL\obj\Debug\net6.0\Company.BLL.dll
+D:\back\MVC\Route\Company.PL\Company.BLL\obj\Debug\net6.0\refint\Company.BLL.dll
+D:\back\MVC\Route\Company.PL\Company.BLL\obj\Debug\net6.0\Company.BLL.pdb
+D:\back\MVC\Route\Company.PL\Company.BLL\obj\Debug\net6.0\ref\Company.BLL.dll
